@@ -11,4 +11,4 @@
 
 ## Abstract
 
---
+--In order to discover the best neighborhood to live in we will count the number of crimes in each neighborhood. Then we will weight each of those crimes depending on there severity for example murder will be considered more than theft. We will then compare that to population so that let's say a theft happened in a place with 100 as a population and 2 thefts occurred in a place with a population of 300 the one neighborhood with one theft would be considered worse.
